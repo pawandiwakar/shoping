@@ -1,0 +1,36 @@
+*{
+	margin:0px auto;
+}
+
+html{
+	background:whitesmoke;
+}
+.leftmenu{
+	height:1200px;
+}
+
+.leftmenu p{
+	font-size:22px;
+	margin:left;
+	padding:10px;
+	color:black;
+
+}
+
+.leftmenu p a{
+	text-decoration:none;
+	color:lightblue;
+	font-size:22px;
+
+}
+
+.dash{
+	margin-left:10px;
+	cursor:pointer;
+	color:black;
+	font-size: 22px;
+}
+.dash a{
+	color:black;
+	cursor:pointer;
+}

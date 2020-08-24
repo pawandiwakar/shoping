@@ -1,0 +1,27 @@
+/* CSS Document */
+
+*{ margin: 0px auto;}
+.topheader{ width:100%; height:100px; background:#E9E9E9;}
+.lft-top{  width:60%; height:100px;background:#E9E9E9;float:left;}
+#log{margin-top:40px; margin-left:120px; }
+.rt-top{  width:40%; height:100px; background:#E9E9E9; float:left;}
+#num{padding-left:90px; padding-top:20px;}
+button{ margin-left:5px; background:#000000; color:#FFFFFF; width:30%; height:35px; cursor:pointer;}
+.body-section{width:100%; height:1000px; background:none; float:left;}
+.lt-stion{ width:70%; margin-top:0px; height:700px; background:#E9E9E9; float:left; }
+
+.rt-stion{ width:30%; height:700px; margin-top:0px; background:#E9E9E9;  float:right; }
+.rt-stion #why{ margin-top:70px;}
+ .rt-stion p{margin-top:10px;}
+#a2z{margin-left:25px; color:#009999;}
+#dtl{line-height:30px; margin-top:5px; margin-left:80px;}
+#pro{ width:70%; height:200px; background:#E9E9E9; box-shadow:0px 0px 2px -1px; float:left; margin-top:10px;}
+
+#tbl{margin-top:70px; width:auto;  }
+#tbl input[type="text"]{width:150%; height:35px; box-shadow:0px 0px 3px -1px; border-radius:7px; margin-top:2px; }
+#tbl input[name="code"]{ width:40%; height:35px; box-shadow:0px 0px 3px -1px; border-radius:7px; margin-top:7px;}
+#tbl input[type="submit"]{background:#0066FF; color:#FFFFFF; width:70%; height:40px; margin-top:20px; cursor:pointer;}
+#tbl input[type="Reset"]{ background:#CCCCCC; color:#FFFFFF; width:30%; height:40px; margin-top:20px; cursor:pointer;}
+::placeholder{ padding-left:10px;}
+#tbl input[type="Checkbox"]{ margin-top:10px;}
+#hd{float:left; padding-bottom:20px; font-size:20px; }

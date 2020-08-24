@@ -1,0 +1,66 @@
+*{margin:0px auto;}
+.first-wish{width:50%;height:auto;float:left;}
+
+.logo{color: #545454;width:20%;
+font-size: 31px;
+margin-left: 60px;float:left;}
+.register{float:left;float: left;
+border: none;
+background: #666;
+color: #fff;border: 1px solid black;
+width: 20%;
+height: 36px;
+margin-left: 14px;font-size: 18px;
+border-radius: 4px 4px 4px 4px;}
+.create{float:left;}
+
+
+.login{width: 36%;
+height: 312px;color:#666;
+}
+
+.emari{width: 63%;
+border: none;
+border: 1px solid #666;border-radius: 5px 5px 5px 5px;
+padding: 8px;
+margin-top: 6px}
+
+.logti{background: #03a9f4;
+border: none;
+width: 63%;
+margin-top: 3px;
+padding: 6px;
+color: #fff;
+font-size: 25px;border-radius: 5px 5px 5px 5px;}
+.forget{text-decoration: none;
+color: #e8931c;}
+.new{background: #001f61;
+border: none;
+width: 63%;
+color: #fff;
+padding: 9px;
+font-size: 17px;
+border-radius: 5px 5px 5px 5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

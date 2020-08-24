@@ -1,0 +1,10 @@
+*{margin:0px auto;}
+html{background: grey;}
+.login{width: 320px;height: 200px;background: white;border-radius: 5px;margin-top: 300px;}
+.news h3{color: grey;}
+.news{margin-left: 15px;margin-top: 25px}
+.name{margin-top: 5px;height: 27px;width: 85%;padding-left: 10px;}
+.subcribe{border: none;background: #0eb4c1;color:#fff;height: 33px;width: 36%;margin-top: 5px;
+	border: none; border-radius: 5px;}
+.subcribe:hover{background:#666;border-radius: 5px;}
+#nam{width:95px;height: 20px;margin-top: 5px;}

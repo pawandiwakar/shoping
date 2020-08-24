@@ -1,0 +1,35 @@
+*{margin:0px auto;}
+.sell{width:90%;border-bottom:1px solid #eee;height: 60px;color:#484848;}
+.sell-form{width: 53%;
+height: 1072px
+box-shadow: 4px 4px 4px 4px;
+margin-top: 28px;}
+.email{
+width: 39%;
+height: 42px;
+font-size: 12px;
+padding-left: 27px;
+margin-top: 22px;
+margin-left: 18px;
+}
+.email:hover{color:red;}
+.star{color:#e8931c;}
+.new{width: 30%;
+float: left;
+
+line-height: 67px;
+height: 900px;}
+.last{width: 97%;}
+.soll{border: none;
+margin-top: 7px;
+width: 21%;
+height: 41px;
+font-size: 16px;background: #0eb4c1;color:#fff;}
+
+
+
+
+
+
+
+

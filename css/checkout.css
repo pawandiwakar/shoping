@@ -1,0 +1,27 @@
+*{margin:0px auto;}
+.sub-menu{height: 35px;width: 100;background: #f7f7f7;line-height: 35px;}
+.sub{margin-left: 120px;width: 88%;}
+.sub-menu a{text-decoration-line: none;color: grey;}
+.sub span{color:#27a8ba;}
+.step{margin-left: 120px;}
+.shop-checkout{width:100%;height: 700px}
+.shopping-cart{width: 55%;height:650px;background: white;float: left;}
+.shopping-cart1{width: 44%;height:650px;background: white;float: left;}
+.shopping-cart h2{color: black;font-weight: bold;margin-left: 120px;
+	border-bottom: 1px solid grey;padding-bottom: 5px;}
+.address{margin-left: 300px;margin-top: 10px;}	
+.p{color: grey;margin-top: 15px;font-size: 17px;}
+input[type='text']{width: 80%;height: 35px;margin-top: 10px;padding-left: 3px;}
+select{width: 81%;height: 35px;margin-top: 10px;padding: 3px;font-size: 17px;color: grey;}
+textarea{font-size: 18px;width: 80%;height: 65px;margin-top: 10px;padding-left: 3px;color: grey;}
+input[type='text']::placeholder{font-size: 17px;}
+#con{background: #0eb4c1;color:#fff;height: 40px;width: 30%;margin-top: 10px;
+	border: none; border-radius: 5px; font-size: 17px;}
+#con:hover{background:#666;border-radius: 5px;border:none;}
+.shopping-cart1 h3{color: grey;margin-left: 30px;}
+#pn{color: black;margin-left: 20px;padding-bottom: 5px;}
+.product{margin-top: 10px;border:1px solid grey;width: 320px;height: 120px;float: left;margin-left: 30px;}
+.product p{margin-left: 20px;}
+.product span{color: orange;}
+.price{width: 320px;height: 50px;float: left;margin-left: 30px;
+		text-align: right;	margin-top: 20px;}

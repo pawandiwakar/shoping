@@ -1,0 +1,77 @@
+*{margin: 0px auto;}
+.first-footer{
+
+width: 100%;
+height: 210px;}
+.footer-divide{width: 19%;
+height: 200px;color:#666;
+
+float: left;
+margin-left: 9px;
+margin-top: 25px;}
+.home{float: left;
+
+width: 49%;}
+
+.logou{color: #545454;
+width: 100%;
+font-size: 24px;
+margin-left: 15px;
+float: left;}
+.address{}
+.footer-divide ul{padding-left: 0px;}
+.footer-divide ul li{list-style: none}
+.footer-divide ul li a{text-decoration: none;color:#666;}
+.name{margin-top: 5px;
+height: 27px;
+width: 80%;
+padding-left: 14px;}
+.footer-divide ul li a:hover{color:#0eb4c1;border-bottom:1px soild #0eb4c1 }
+.subde{border: none;background: #0eb4c1;
+color:#fff;
+height: 33px;
+
+width: 36%;
+
+margin-top: 5px;}
+.subde:hover{background:#666;}
+.home ul{}
+.home ul li{list-style: none}
+.home ul li a{text-decoration: none;color:#666;}
+.second-footer{width: 100%;
+height: 75px;
+background: #f4f4f4;}
+.image{width:40%;float:left;}
+.card{float: left;
+margin-left: 17px;
+margin-top: 22px;}
+.copyright{width: 30%;
+float: right;
+color: #666;
+font-size: 11px;
+margin-top: 19px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+input[type="text"]{
+	width:70%;
+	height:40px;
+	background:whitesmoke;
+	padding:10px;
+}
+
+.select{
+	width:70%;
+}
+
+::placeholder{
+	background:whitesmoke;
+}

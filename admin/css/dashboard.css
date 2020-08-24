@@ -1,0 +1,41 @@
+*{
+	margin:0px auto;
+}
+
+.body{
+	width:100%;
+	height:1200px;
+	background:whitesmoke;
+}
+
+.leftpart{
+	width:20%;
+	float:left;
+	background:whitesmoke;
+}
+
+.rightpart{
+	width:77%;
+	float:left;
+	height:1200px;
+	padding:10px;
+}
+
+input[type="text"]
+{
+	width:50%;
+	margin-left:20px;
+	color:red;
+
+}
+::placeholder
+{
+	background:white;
+	color:green;
+}
+
+input[type="submit"]
+{
+	width:40%;
+	
+}
